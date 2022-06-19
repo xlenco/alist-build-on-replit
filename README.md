@@ -16,3 +16,5 @@ https://alist-doc.nn.ci/docs/install/source-code
 `git clone https://github.com/xilej/alist-build-on-replit && mv -b alist-build-on-replit/* ./ && mv -b alist-build-on-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-build-on-replit`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
+查看密码:
+./alist -password
