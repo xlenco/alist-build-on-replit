@@ -13,7 +13,7 @@ https://alist-doc.nn.ci/docs/install/source-code
 
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/xilej/alist-build-on-replit && mv -b alist-build-on-replit/* ./ && mv -b alist-build-on-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-build-on-replit`
+`git clone https://github.com/xlenco/alist-build-on-replit && mv -b alist-build-on-replit/* ./ && mv -b alist-build-on-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-build-on-replit`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 查看密码:
